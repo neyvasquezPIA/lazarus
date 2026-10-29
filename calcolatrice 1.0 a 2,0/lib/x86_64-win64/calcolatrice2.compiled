@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525895209"/>
-  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiC:\Users\ney.vasquez.PIAMARTA\Documents\lazarus pro\calcolatrice 1.0 a 2,0\lib\x86_64-win64&quot; &quot;-FuC:\Users\ney.vasquez.PIAMARTA\Documents\lazarus pro\calcolatrice 1.0 a 2,0\&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FUC:\Users\ney.vasquez.PIAMARTA\Documents\lazarus pro\calcolatrice 1.0 a 2,0\lib\x86_64-win64\&quot; &quot;-FEC:\Users\ney.vasquez.PIAMARTA\Documents\lazarus pro\calcolatrice 1.0 a 2,0\&quot; &quot;-oC:\Users\ney.vasquez.PIAMARTA\Documents\lazarus pro\calcolatrice 1.0 a 2,0\calcolatrice2.exe&quot; -dLCL -dLCLwin32 calcolatrice2.lpr"/>
-</CONFIG>
